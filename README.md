@@ -1,1 +1,1 @@
-This is HMD System using Uniry AR-Foundation on MonokkoProject.
+This is HMD System using Unity AR-Foundation on MonokkoProject.
